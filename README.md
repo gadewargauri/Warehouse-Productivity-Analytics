@@ -80,7 +80,6 @@ Run `sql/warehouse_analysis.sql` after importing the CSV into a table named `war
 - Compare express and bulk workflows separately because their SLA targets differ.
 - Monitor stage-level KPIs weekly rather than relying only on total cycle time.
 
-## Resume description
 **Warehouse Productivity & Order Fulfillment Analytics | Python, SQL, Excel, Power BI**
 - Analyzed 2,500 simulated warehouse orders using Python and SQL to measure picking, packing, dispatch and queue performance.
 - Developed an Excel KPI dashboard and designed a Power BI reporting solution to monitor fulfillment time, on-time rate and warehouse productivity.
